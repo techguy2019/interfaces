@@ -3,4 +3,4 @@ I provide sportsbook software and design sports betting websites. My sportsbook 
 
 The sportsbook software includes data feeds and professional cloud-based hosting as well as a maintenance, upgrade and update service and customer support
 
-Please check out https://www.sportsbooksoftware.com for more examples of my work.
+Please check out [Sportsbook Software](https://www.sportsbooksoftware.com) for more examples of my work.
